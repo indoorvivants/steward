@@ -25,5 +25,6 @@ jobs:
           github-token: ${{ steps.generate-token.outputs.token }}
           author-email: 228215+Indoor+Vivants+Steward[bot]@users.noreply.github.com
           author-name: Indoor Vivants Steward[bot]
+          repos-file: 'repos.md'
           github-app-id: 228215
           github-app-key: ${{ secrets.APP_PRIVATE_KEY }}
