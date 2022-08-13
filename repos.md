@@ -1,0 +1,1 @@
+- indoorvivants/scala-library-template
